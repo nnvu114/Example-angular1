@@ -1,0 +1,98 @@
+.user-action {
+    position: relative;
+    .user-action-icon {
+        color: $white();
+        padding: 10px 15px;
+        @extend .cursor-pointer;
+        &.activated {
+            background-color: darken($deep-gray, 5);
+            color: $emerald-green;
+        }
+        i {
+            font-size: 20px;
+        }
+    }
+
+    .user-action-list {
+        position: absolute;
+        top: 100%;
+        right: 0;
+        width: 240px;
+        box-shadow: 1px 2px 5px;
+        color: $black;
+        display: none;
+        background-color: darken($deep-gray, 5);
+        &.showme {
+            display: inline-block;
+            .list-body {
+                animation: auto-height .8s;
+            }
+        }
+        .list-body {
+            overflow: auto;
+            max-height: 500px;
+            .list {
+                list-style-type: none;
+                padding: 0;
+                margin: 0;
+                .item {
+                    &:not(:first-child) {
+                        border-top: 1px solid $dim-gray;
+                    }
+                    .avatar-arear {
+                        position: relative;
+                        margin: 10px 0;
+                        .avatar-container {
+                            width: 61px;
+                            padding-bottom: 61px;
+                            margin: auto;
+                            overflow: hidden;
+                            position: relative;
+                            .image-square-wrapper {
+                                position: absolute;
+                                top: 0;
+                                right: 0;
+                                bottom: 0;
+                                left: 0;
+                                border-radius: 50%;
+                                background: $light-gray url(/assets/img/noprofile.png) no-repeat top left;
+                                background-size: contain;
+                            }
+                        }
+                    }
+                    .uname {
+                        margin-bottom: 2px;
+                    }
+                    .organization {
+                        @include flexbox();
+                        justify-content: space-around;
+                        align-items: center;
+                        margin-bottom: 10px;
+                    }
+                    .user-action-item {
+                        padding: 5px 8px;
+                        @include flexbox();
+                        align-items: center;
+                        @extend .no-underline;
+                        @extend .cursor-pointer;
+                        .text {
+                            width: 100%;
+                            color: $white-smoke;
+                            cursor: inherit;
+                        }
+                        .action {
+                            line-height: 1;
+                            color: $white-smoke;
+                        }
+                        &:hover {
+                            background-color: $white-smoke;
+                            .text, .action {
+                                color: $emerald-green;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+<div class="pet-container main-content pet-client-container" ng-controller="UserCtrl as vm">
+    <script type="text/ng-template" id="myModalContent.html">
+        <div class="modal-body">
+            <form novalidate name="pacForm" ng-submit="pacForm.$valid && update(model)">
+                <div class="modal-header">
+                    <h3 class="modal-title">I'm a modal!</h3>
+                </div>
+                <div class="modal-body form-horizontal">
+                    <div ng-show="pacForm.$submitted || pacForm.cycleName.$touched">
+                        <span class="has-error" ng-show="pacForm.pacName.$error.required">PAC Name is required</span>
+                    </div>
+
+                    <div ng-show="pacForm.$submitted || pacForm.status.$touched">
+                        <span class="has-error" ng-show="pacForm.status.$error.required">Status is required</span>
+                    </div>
+
+                    <label class="control-label">PAC Name</label>
+                    <input class="form-control" name="pacName" ng-model="model.pacName" required placeholder="PAC Name" />
+
+                    <label class="control-label">Status</label>
+                    <select required name="status" class="form-control" ng-model="model.isActive"
+                            ng-options="o.v as o.n for o in [{ n: 'Please select', v: '' }, { n: 'activate', v: true }, { n: 'deactivate', v: false }]"></select>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-primary" type="submit">update</button>
+                    <button class="btn btn-warning" type="button" ng-click="cancel()">Cancel</button>
+                </div>
+            </form>
+        </div>
+    </script>
+    <div>
+        <button type="button" id="addRow" class="btn btn-success" ng-click="vm.open('lg', 'myModalContent.html')">Add New User</button>
+        <br>
+    </div>
+    <p></p>
+    <div ui-grid="vm.gridOptions" ui-grid-pagination ui-grid-selection ui-grid-exporter ui-grid-resize-columns ui-grid-auto-resize
+        class="grid">
+    </div>
+</div>

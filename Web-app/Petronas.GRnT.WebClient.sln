@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Petronas.GRnT.WebClient", "..\Petronas.GRnT.WebClient", "{345015E3-5884-42EB-B99A-5A976C700CA4}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53091"
+		Debug.AspNetCompiler.PhysicalPath = "..\Petronas.GRnT.WebClient\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53091\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53091"
+		Release.AspNetCompiler.PhysicalPath = "..\Petronas.GRnT.WebClient\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53091\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53091"
+		SlnRelativePath = "..\Petronas.GRnT.WebClient\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{345015E3-5884-42EB-B99A-5A976C700CA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345015E3-5884-42EB-B99A-5A976C700CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E67D5CC-66E5-48F9-858E-ADA09AE23CA3}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://10.14.73.58:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccWebProject1 = true
+		SccProjectUniqueName1 = .
+		SccLocalPath1 = .
+		SccProjectEnlistmentChoice1 = 2
+	EndGlobalSection
+EndGlobal

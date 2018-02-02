@@ -1,0 +1,226 @@
+{
+    "data": {
+        "data": [
+    {
+        "Id": "ecb94227-d5d2-4a14-a70a-d7acfa483449",
+        "Name": "Asean Bintulu Fertilizer Sdn Bhd"
+    },
+    {
+        "Id": "3e12269d-7fa6-480c-8464-b0770f9e5a3f",
+        "Name": "Dewan Filharmonik PETRONAS"
+    },
+    {
+        "Id": "b58d7b56-1f50-4ba3-8b88-9d7b7a6eb134",
+        "Name": "Engen Petroleum Limited"
+    },
+    {
+        "Id": "8f80a0fc-66f6-4e53-b19f-5734dedfad56",
+        "Name": "Institute of Teknologi PETRONAS"
+    },
+    {
+        "Id": "e3b8362f-3ee0-4056-8ca1-8c225bd9f659",
+        "Name": "KLCC (Holdings) Sdn Bhd"
+    },
+    {
+        "Id": "05f757f6-1ca9-4d96-b21f-d0fc9500bc45",
+        "Name": "KLCC Parking Management Sdn Bhd"
+    },
+    {
+        "Id": "9d6924d8-253a-4900-b5b3-b93093fbb1c4",
+        "Name": "KLCC Property Holdings Berhad"
+    },
+    {
+        "Id": "4adcbd2a-e980-4a69-8b21-8f28d7467fe6",
+        "Name": "KLCC Urusharta Sdn Bhd"
+    },
+    {
+        "Id": "9fb7fad5-c25c-4d1e-a910-5beeaab7ec2c",
+        "Name": "Malaysia LNG Sdn Bhd"
+    },
+    {
+        "Id": "1a29916b-deb5-4781-8ca1-c705aa75b0ff",
+        "Name": "MISC Berhad"
+    },
+    {
+        "Id": "66d1fa26-170f-4214-9045-ba80bf0a4be9",
+        "Name": "Others"
+    },
+    {
+        "Id": "6ded52aa-b6fd-406b-a80b-4f8939efd814",
+        "Name": "PETCO Trading Labuan Co. Ltd."
+    },
+    {
+        "Id": "eab0cbb5-a006-4258-82f2-3ce5080050a7",
+        "Name": "Petroliam Nasional Berhad"
+    },
+    {
+        "Id": "016d6621-fa18-438f-9aa6-aafa2b4b8779",
+        "Name": "PETRONAS Carigali Sdn Bhd"
+    },
+    {
+        "Id": "fce9e90d-eaa5-43c3-a1cb-e8a452e97c69",
+        "Name": "PETRONAS Chemicals Ammonia Sdn Bhd"
+    },
+    {
+        "Id": "0a8bfdcf-692b-4be7-b90a-32f8c7a34783",
+        "Name": "PETRONAS Chemicals Aromatics Sdn Bhd"
+    },
+    {
+        "Id": "9a132dcd-afe0-4e62-9914-765a42e8408a",
+        "Name": "PETRONAS Chemicals Derivatives Sdn Bhd"
+    },
+    {
+        "Id": "348aa789-b0be-4c69-bbf9-e67ebaa6dfde",
+        "Name": "PETRONAS Chemicals Ethylene Sdn Bhd"
+    },
+    {
+        "Id": "4a4d5202-c937-478c-8276-14140bdb6db3",
+        "Name": "PETRONAS Chemicals Fertiliser (Kedah) Sdn Bhd"
+    },
+    {
+        "Id": "eeb306f9-9fd5-4146-a64b-527261ce3961",
+        "Name": "PETRONAS Chemicals Fertiliser (Sabah) Sdn Bhd"
+    },
+    {
+        "Id": "0c3cd1a7-f69b-47eb-92ce-6ba37e9da666",
+        "Name": "PETRONAS Chemicals Glycols Sdn Bhd"
+    },
+    {
+        "Id": "4e68a957-51c7-4898-9656-ec2f2faaa326",
+        "Name": "PETRONAS Chemicals Group Berhad"
+    },
+    {
+        "Id": "44427a50-3a79-46f5-b5a8-8c41b8732f02",
+        "Name": "PETRONAS Chemicals LDPE Sdn Bhd"
+    },
+    {
+        "Id": "d94a918f-229f-43d2-b6dd-c206cc3d6b8a",
+        "Name": "PETRONAS Chemicals Marketing (Labuan) Limited"
+    },
+    {
+        "Id": "6b1b61d7-e663-49d9-9b79-d9140b8fd822",
+        "Name": "PETRONAS Chemicals Marketing Sdn Bhd"
+    },
+    {
+        "Id": "ce0a89ca-8c07-4454-bac2-db853f8388aa",
+        "Name": "PETRONAS Chemicals Methanol Sdn Bhd"
+    },
+    {
+        "Id": "6387254a-39f1-4874-bdc7-a1a8fc49b048",
+        "Name": "PETRONAS Chemicals MTBE Sdn Bhd"
+    },
+    {
+        "Id": "706e764b-5a93-4a6e-8ace-765e961ee971",
+        "Name": "PETRONAS Chemicals Olefins Sdn Bhd"
+    },
+    {
+        "Id": "58a2e532-d64a-43fa-910e-a869bf0af4b2",
+        "Name": "PETRONAS Chemicals Polyethylene Sdn Bhd"
+    },
+    {
+        "Id": "11db0658-47c7-4d60-aa13-4facb00cfe2e",
+        "Name": "PETRONAS Dagangan Berhad"
+    },
+    {
+        "Id": "bb56f2b4-2d2b-4af2-9c19-8dbb3ec98e19",
+        "Name": "PETRONAS Floating LNG 1 (L) Ltd"
+    },
+    {
+        "Id": "27c169a4-8b87-49b6-b9af-b3a66336bce5",
+        "Name": "PETRONAS Gas Berhad"
+    },
+    {
+        "Id": "e1d09c38-99f7-43e7-8500-9e4e85529926",
+        "Name": "PETRONAS ICT Sdn Bhd"
+    },
+    {
+        "Id": "e408076e-f3f4-445c-8d0e-7d6eb124908f",
+        "Name": "PETRONAS LNG 9 Sdn Bhd"
+    },
+    {
+        "Id": "8e658012-ded4-4502-9cbf-aec3cd3d7649",
+        "Name": "PETRONAS LNG Sdn Bhd"
+    },
+    {
+        "Id": "27ebadbe-7019-4390-b81f-30b9b3dadd99",
+        "Name": "PETRONAS Lubricants International Sdn Bhd"
+    },
+    {
+        "Id": "9a593411-2590-4928-8308-77a08e2526d5",
+        "Name": "PETRONAS Management Training Sdn Bhd"
+    },
+    {
+        "Id": "78c170fd-96d0-40fe-a0a9-539a18bdfa81",
+        "Name": "PETRONAS Maritime Services Sdn Bhd"
+    },
+    {
+        "Id": "bb4eecab-129d-46ef-be14-705fe5efb7e0",
+        "Name": "PETRONAS Penapisan (Melaka) Sdn Bhd"
+    },
+    {
+        "Id": "75c35736-d853-4bac-9f75-240eb84abd87",
+        "Name": "PETRONAS Penapisan (Terengganu) Sdn Bhd"
+    },
+    {
+        "Id": "724c60e9-ee03-42ac-a02b-5574aec854bf",
+        "Name": "PETRONAS Power Sdn Bhd"
+    },
+    {
+        "Id": "e00145cd-3a8d-4eb6-8773-de3fecd53572",
+        "Name": "PETRONAS Refinery Petrochemical Corporation Sdn Bhd"
+    },
+    {
+        "Id": "54a671b4-33b7-44b0-8fc8-a7029b4b41c5",
+        "Name": "PETRONAS Research Sdn Bhd"
+    },
+    {
+        "Id": "090ebf1b-3099-430d-abc3-c09d8b0fdfc6",
+        "Name": "PETRONAS Technical Services Sdn Bhd"
+    },
+    {
+        "Id": "d94654de-482a-40cb-b070-f9095555ec88",
+        "Name": "PETRONAS Technical Training Sdn Bhd"
+    },
+    {
+        "Id": "d48dc5f4-d445-41ce-a74a-8c5323a91ba0",
+        "Name": "PETRONAS Trading Corporation Sdn Bhd"
+    },
+    {
+        "Id": "69f0a07e-5596-472a-a5d7-997fa335a544",
+        "Name": "PETROSAINS Sdn Bhd"
+    },
+    {
+        "Id": "f08d849b-5c63-437e-beae-d46e1873282e",
+        "Name": "Polypropylene Malaysia Sdn Bhd"
+    },
+    {
+        "Id": "8ef152e6-eaeb-4edc-b815-621f5cfac945",
+        "Name": "Power & Energy Resources Sdn Bhd"
+    },
+    {
+        "Id": "65ac0c1a-60f7-4225-a1bf-fd4d7fdc157d",
+        "Name": "Prince Court Medical Centre Sdn Bhd"
+    },
+    {
+        "Id": "00579944-483e-4495-83ee-d132748cdfcb",
+        "Name": "Progress Energy Canada Ltd"
+    },
+    {
+        "Id": "a1edda54-dd58-4e49-b38e-7f8589703038",
+        "Name": "PSE Kinsale Energy Ltd"
+    },
+    {
+        "Id": "60078d7e-7232-4a98-bb98-14e7ac38ae90",
+        "Name": "Putrajaya Holdings Sdn Bhd"
+    },
+    {
+        "Id": "04fd1d64-06f6-4ae6-9fea-c7b68e9cf753",
+        "Name": "Regas Terminal (Sg. Udang) Sdn Bhd"
+    },
+    {
+        "Id": "365f91c4-d5ae-44e6-92e3-1c28a0296168",
+        "Name": "Vinyl Chloride (Malaysia) Sdn Bhd"
+    }
+]
+    }
+}

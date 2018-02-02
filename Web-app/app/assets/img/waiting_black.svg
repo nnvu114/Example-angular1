@@ -1,0 +1,14 @@
+<svg width="98px"  height="98px"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="lds-facebook" style="background: none;">
+    <rect ng-attr-x="{{config.x1}}" ng-attr-y="{{config.y}}" ng-attr-width="{{config.width}}" ng-attr-height="{{config.height}}" ng-attr-fill="{{config.c1}}" x="20" y="19.5" width="10" height="61" fill="#000000">
+      <animate attributeName="y" calcMode="spline" values="-7.949999999999996;19.5;19.5" keyTimes="0;0.5;1" dur="1" keySplines="0 0.5 0.5 1;0 0.5 0.5 1" begin="-0.2s" repeatCount="indefinite"></animate>
+      <animate attributeName="height" calcMode="spline" values="115.89999999999999;61;61" keyTimes="0;0.5;1" dur="1" keySplines="0 0.5 0.5 1;0 0.5 0.5 1" begin="-0.2s" repeatCount="indefinite"></animate>
+    </rect>
+    <rect ng-attr-x="{{config.x2}}" ng-attr-y="{{config.y}}" ng-attr-width="{{config.width}}" ng-attr-height="{{config.height}}" ng-attr-fill="{{config.c2}}" x="45" y="19.5" width="10" height="61" fill="#000000">
+      <animate attributeName="y" calcMode="spline" values="-1.0874999999999915;19.5;19.5" keyTimes="0;0.5;1" dur="1" keySplines="0 0.5 0.5 1;0 0.5 0.5 1" begin="-0.1s" repeatCount="indefinite"></animate>
+      <animate attributeName="height" calcMode="spline" values="102.17499999999998;61;61" keyTimes="0;0.5;1" dur="1" keySplines="0 0.5 0.5 1;0 0.5 0.5 1" begin="-0.1s" repeatCount="indefinite"></animate>
+    </rect>
+    <rect ng-attr-x="{{config.x3}}" ng-attr-y="{{config.y}}" ng-attr-width="{{config.width}}" ng-attr-height="{{config.height}}" ng-attr-fill="{{config.c3}}" x="70" y="19.5" width="10" height="61" fill="#000000">
+      <animate attributeName="y" calcMode="spline" values="5.774999999999999;19.5;19.5" keyTimes="0;0.5;1" dur="1" keySplines="0 0.5 0.5 1;0 0.5 0.5 1" begin="0s" repeatCount="indefinite"></animate>
+      <animate attributeName="height" calcMode="spline" values="88.45;61;61" keyTimes="0;0.5;1" dur="1" keySplines="0 0.5 0.5 1;0 0.5 0.5 1" begin="0s" repeatCount="indefinite"></animate>
+    </rect>
+  </svg>

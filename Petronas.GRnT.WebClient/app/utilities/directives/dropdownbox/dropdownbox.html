@@ -1,0 +1,28 @@
+<article class="action-item" ng-clickout="showme = false;">
+    <div class="action-icon"
+        ng-click="showme = !showme;"
+        ng-class="{'activated': showme}">
+        <i class="{{data.IconClass}}"></i>
+        <span class="action-alert">{{data.Items.length}}</span>
+    </div>
+    <div class="action-list" ng-class="{'showme': showme}">
+        <div class="list-header">
+            <h5>{{data.HeaderText}}</h5>
+        </div>
+        <div class="list-body">
+            <ul class="list">
+                <li class="item" ng-repeat="i in data.Items">
+                    <p ng-if="!i.Url && !i.Action" class="text">{{i.TextContent}}</p>
+                    <a ng-if="i.Url" ng-href="{{i.Url}}" class="text hyperlink">{{i.TextContent}}</a>
+                    <a ng-if="i.Action" ui-sref="{{i.Action}}" class="text hyperlink">{{i.TextContent}}</a>
+                    <span class="action" ng-if="i.CanDelete === true">
+                        <i class="icon icon-pet-i-close" ng-click="deleteMe(i)"></i>
+                    </span>
+                </li>
+            </ul>
+        </div>
+        <div class="list-footer">
+            <a href="#" class="see-more no-underline">See more</a>
+        </div>
+    </div>
+</article>

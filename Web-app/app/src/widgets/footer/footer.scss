@@ -1,0 +1,14 @@
+.pet-root-footer {
+    height: 30px;
+    .main-footercontainer {
+        background-color: $white-smoke;
+        color: $deep-gray;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        .text {
+            margin: 0;
+            text-align: left;
+        }
+    }
+}

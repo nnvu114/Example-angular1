@@ -1,0 +1,86 @@
+{
+    "data": {
+        "data": [
+            {
+                "Id": "56789",
+                "IconClass": "icon icon-pet-i-bell",
+                "HeaderText": "Notifications",
+                "Items": [
+                    {
+                        "Id": 1,
+                        "TextContent": "Officia tempor ullamco exercitation minim ad excepteur exercitation.",
+                        "CanDelete": true,
+                        "Url": null,
+                        "Action": null
+                    },
+                    {
+                        "Id": 2,
+                        "TextContent": "Officia tempor ullamco exercitation minim ad excepteur exercitation.",
+                        "CanDelete": false,
+                        "Url": "http://google.com",
+                        "Action": null
+                    },
+                    {
+                        "Id": 3,
+                        "TextContent": "Officia tempor ullamco exercitation minim ad excepteur exercitation.",
+                        "CanDelete": true,
+                        "Url": null,
+                        "Action": null
+                    },
+                    {
+                        "Id": 4,
+                        "TextContent": "Officia tempor ullamco exercitation minim ad excepteur exercitation.",
+                        "CanDelete": false,
+                        "Url": null,
+                        "Action": null
+                    }
+                ],
+                "More": {
+                    "Label": "See more",
+                    "Url": "",
+                    "Action": ""
+                }
+            },
+            {
+                "Id": "123456789",
+                "IconClass": "icon icon-pet-i-users",
+                "HeaderText": "Guideline",
+                "Items": [
+                    {
+                        "Id": 1,
+                        "TextContent": "Officia tempor ullamco exercitation minim ad excepteur exercitation.",
+                        "CanDelete": true,
+                        "Url": null,
+                        "Action": null
+                    },
+                    {
+                        "Id": 2,
+                        "TextContent": "Officia tempor ullamco exercitation minim ad excepteur exercitation.",
+                        "CanDelete": true,
+                        "Url": "http://google.com",
+                        "Action": null
+                    },
+                    {
+                        "Id": 3,
+                        "TextContent": "Officia tempor ullamco exercitation minim ad excepteur exercitation.",
+                        "CanDelete": true,
+                        "Url": null,
+                        "Action": null
+                    },
+                    {
+                        "Id": 4,
+                        "TextContent": "Officia tempor ullamco exercitation minim ad excepteur exercitation.",
+                        "CanDelete": true,
+                        "Url": null,
+                        "Action": null
+                    }
+                ],
+                "More": {
+                    "Label": "See more",
+                    "Url": "",
+                    "Action": ""
+                }
+            }
+        ]
+    }
+}

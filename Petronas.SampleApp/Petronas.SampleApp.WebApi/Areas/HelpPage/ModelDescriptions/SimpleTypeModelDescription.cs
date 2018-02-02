@@ -1,0 +1,6 @@
+namespace Petronas.SampleApp.WebApi.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}

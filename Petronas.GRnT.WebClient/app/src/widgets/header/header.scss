@@ -1,0 +1,81 @@
+.header-container {
+    height: 40px;
+    position: relative;
+    // transform: translate(0,0);
+    // position: fixed;
+    // width: 100%;
+    // z-index: 10;
+    .fixposition {
+        background-color: $deep-gray;
+        position: fixed;
+        transform: translateZ(0);
+        -webkit-transform: translateZ(0);
+        top: 0;
+        // left: 0;
+        right: 0;
+        height: 40px;
+        z-index: 10;
+        .pet-header {
+            @include flexbox() {
+                justify-content: space-between;
+                align-content: center;
+            };
+        }
+        .hinfo {
+            width: 100%;
+            @include flexbox();
+            justify-content: flex-start;
+            align-items: center;
+            .hlogo {
+                flex: 0 0 50px;
+                height: 40px;
+                margin-right: 15px;
+                position: relative;
+                .logo-wrapper {
+                    position: absolute;
+                    top: 0;
+                    width: 100%;
+                    box-shadow: 0 0 14px;
+                    z-index: 9999;
+                    color: inherit;
+                    &:after {
+                        content: "";
+                        position: absolute;
+                        width: 0;
+                        height: 0;
+                        border-top: 10px solid $nobel;
+                        border-right: 6px solid transparent;
+                        right: -6px;
+                        bottom: 0;
+                    }
+                    &:active, &:focus {
+                        animation: logoEffect .2s;
+                    }
+                }
+                .main-logo {
+                    width: 100%;
+                    @extend .cursor-pointer;
+                }
+                @keyframes logoEffect {
+                    from {box-shadow: 0 0 14px}
+                    to {box-shadow: 0 0 3px;}
+                }
+            }
+            .htitle {
+                width: 100%;
+                margin: 0;
+                color: $white;
+            }
+        }
+        .haction {
+            margin-right: 25px\0;
+            @include flexbox();
+            justify-content: flex-end;
+            align-content: flex-end;
+            .loading {
+                @extend .waiting-white;
+                width: 50px;
+            }
+        }
+    }
+}

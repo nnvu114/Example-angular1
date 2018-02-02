@@ -1,0 +1,59 @@
+<div class="app-bar">
+    <img class="logo" src="/assets/img/petronas-logo-72.png">
+    <div class="title">
+        Technology Marketplace
+    </div>
+    <div class="menu">
+        <!-- <button class="menu-button has-submenu" data-content="#techSolution">Technology Solutions<i class="material-icons">keyboard_arrow_down</i></button>
+        <button class="menu-button" >Contact Us</button> -->
+        <a class="menu-button" ui-sref="vendor.landing">Home</a>
+        <a class="menu-button has-submenu" data-content="#commonui">Common UI<i class="material-icons">keyboard_arrow_down</i></a>
+        <a class="menu-button has-submenu" data-content="#techSolution">Technology Solutions<i class="material-icons">keyboard_arrow_down</i></a>
+        <a class="menu-button" >Contact Us</a>        
+    </div>
+    <svg width="24" height="32" viewbox="0 0 100 100" preserveAspectRatio="none" style="transform:scaleX(-1);align-self:flex-start;">
+        <path d="M0,0 L100,0 C20,33 80,66 0,100z" fill="#000" />
+    </svg>
+    <div class="info">
+        <div class="info-item"><span>Welcome</span><a href="#">Nguyen Duc Thuan</a></div>
+        <div class="info-item"><a href="#">Logout</a></div>
+    </div>
+    <svg width="24" height="32" viewbox="0 0 100 100" preserveAspectRatio="none" style="align-self:flex-start;">
+        <path d="M0,0 L100,0 C20,33 80,66 0,100z" fill="#000" />
+    </svg>
+</div>
+<div id="techSolution" class="display-none sub-menu-wrap">
+    <div class="app-bar-menu">
+        <div class="sub-menu">
+            <div class="sub-menu-title">
+                <!--OUR BUSINESS-->
+                TECHNOLOGY SOLUTIONS
+                <div class="sub-menu-item">
+                    <a href="#">Submit Technology Solution</a>
+                </div>
+                <div class="sub-menu-item">
+                    <a href="#">Technology Solution Submission History</a>                            
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="commonui" class="display-none sub-menu-wrap">
+    <div class="app-bar-menu">
+        <div class="sub-menu">
+            <div class="sub-menu-title">
+                <!--OUR BUSINESS-->
+                COMMON UI
+                <div class="sub-menu-item">
+                    <a ui-sref="common.buttons" href="/common-ui/buttons.html">Button</a>
+                </div>
+                <div class="sub-menu-item">
+                    <a ui-sref="common.typography">Typography</a>                            
+                </div>
+                <div class="sub-menu-item">
+                        <a ui-sref="common.form">Form Elements</a>                            
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>

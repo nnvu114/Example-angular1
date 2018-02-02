@@ -1,0 +1,258 @@
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\ApplicationInsights.config
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\csc.exe
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\vbc.exe
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.WebApi.dll.config
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.WebApi.XML
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.WebApi.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.WebApi.pdb
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Antlr3.Runtime.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Autofac.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Autofac.Integration.Owin.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Autofac.Integration.WebApi.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Autofac.Integration.WebApi.Owin.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\AutoMapper.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\EntityFramework.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\FluentValidation.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AI.Web.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Newtonsoft.Json.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Owin.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Common.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Model.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Repository.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Service.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Swashbuckle.Core.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Net.Http.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Net.Http.Extensions.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Net.Http.Primitives.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Security.Cryptography.Algorithms.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Security.Cryptography.Encoding.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Security.Cryptography.Primitives.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Cors.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Helpers.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Http.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Http.Owin.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Mvc.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Optimization.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Razor.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.WebPages.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\WebActivatorEx.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\WebGrease.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Common.pdb
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Common.dll.config
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Model.pdb
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Model.dll.config
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Repository.pdb
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Repository.dll.config
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Service.pdb
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Service.dll.config
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Antlr3.Runtime.pdb
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Autofac.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Autofac.Integration.Owin.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Autofac.Integration.WebApi.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Autofac.Integration.WebApi.Owin.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\AutoMapper.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\EntityFramework.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\FluentValidation.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AI.Web.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Newtonsoft.Json.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Helpers.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Http.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Http.Owin.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Mvc.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Optimization.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Razor.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.WebPages.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\obj\Release\Petronas.SampleApp.WebApi.csprojResolveAssemblyReference.cache
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\obj\Release\Petronas.SampleApp.WebApi.csproj.CoreCompileInputs.cache
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\obj\Release\Petronas.SampleApp.WebApi.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\obj\Release\Petronas.SampleApp.WebApi.pdb
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Http.Cors.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Http.Cors.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\ApplicationInsights.config
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\csc.exe
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\vbc.exe
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\VBCSCompiler.exe
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.WebApi.dll.config
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.WebApi.XML
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.WebApi.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.WebApi.pdb
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Antlr3.Runtime.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Autofac.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Autofac.Integration.Owin.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Autofac.Integration.WebApi.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Autofac.Integration.WebApi.Owin.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\AutoMapper.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\EntityFramework.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\EntityFramework.SqlServer.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\FluentValidation.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AI.Web.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.ApplicationInsights.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Cors.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.Google.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Newtonsoft.Json.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Owin.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Common.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Model.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Repository.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Service.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Swashbuckle.Core.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Net.Http.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Net.Http.Extensions.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Net.Http.Formatting.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Net.Http.Primitives.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Security.Cryptography.Algorithms.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Security.Cryptography.Encoding.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Security.Cryptography.Primitives.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Cors.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Helpers.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Http.Cors.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Http.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Http.Owin.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Http.WebHost.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Mvc.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Optimization.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Razor.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.WebPages.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.WebPages.Razor.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\WebActivatorEx.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\WebGrease.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Common.pdb
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Common.dll.config
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Model.pdb
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Model.dll.config
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Repository.pdb
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Repository.dll.config
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Service.pdb
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Petronas.SampleApp.Service.dll.config
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Antlr3.Runtime.pdb
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Autofac.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Autofac.Integration.Owin.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Autofac.Integration.WebApi.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Autofac.Integration.WebApi.Owin.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\AutoMapper.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\EntityFramework.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\EntityFramework.SqlServer.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\FluentValidation.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AI.Web.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.ApplicationInsights.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Cors.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.Google.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\Newtonsoft.Json.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Helpers.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Http.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Http.Cors.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Http.Owin.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Http.WebHost.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Mvc.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Optimization.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.Razor.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.WebPages.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\bin\System.Web.WebPages.Razor.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\obj\Release\Petronas.SampleApp.WebApi.csprojResolveAssemblyReference.cache
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\obj\Release\Petronas.SampleApp.WebApi.csproj.CoreCompileInputs.cache
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\obj\Release\Petronas.SampleApp.WebApi.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.WebApi\obj\Release\Petronas.SampleApp.WebApi.pdb

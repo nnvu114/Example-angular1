@@ -1,0 +1,40 @@
+{
+    "data": {
+        "data": [
+            {
+                "label": "Name",
+                "items": [
+                    {
+                        "label": "Ascending",
+                        "icon": "icon icon-pet-i-arrow-up",
+                        "parent": "Name",
+                        "revert": false
+                    },
+                    {
+                        "label": "Descending",
+                        "icon": "icon icon-pet-i-arrow-down",
+                        "parent": "Name",
+                        "revert": true
+                    }
+                ]
+            },
+            {
+                "label": "Date (Last update)",
+                "items": [
+                    {
+                        "label": "Ascending",
+                        "icon": "icon icon-pet-i-arrow-up",
+                        "parent": "LastUpdate",
+                        "revert": false
+                    },
+                    {
+                        "label": "Descending",
+                        "icon": "icon icon-pet-i-arrow-down",
+                        "parent": "LastUpdate",
+                        "revert": true
+                    }
+                ]
+            }
+        ]
+    }
+}

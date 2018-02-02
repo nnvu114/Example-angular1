@@ -1,0 +1,84 @@
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Petronas.SampleApp.Repository.dll.config
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Petronas.SampleApp.Repository.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Petronas.SampleApp.Repository.pdb
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\AutoMapper.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\EntityFramework.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\EntityFramework.SqlServer.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\FluentValidation.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.AspNet.Identity.Owin.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.Owin.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.Owin.Security.Cookies.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.Owin.Security.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.Owin.Security.OAuth.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Newtonsoft.Json.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Owin.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Petronas.SampleApp.Common.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Petronas.SampleApp.Model.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\System.Net.Http.Extensions.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\System.Net.Http.Formatting.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\System.Net.Http.Primitives.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Petronas.SampleApp.Common.pdb
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Petronas.SampleApp.Common.dll.config
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Petronas.SampleApp.Model.pdb
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Petronas.SampleApp.Model.dll.config
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\AutoMapper.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\EntityFramework.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\EntityFramework.SqlServer.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\FluentValidation.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.AspNet.Identity.Core.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.AspNet.Identity.Owin.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.Owin.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.Owin.Security.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.Owin.Security.Cookies.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.Owin.Security.OAuth.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Newtonsoft.Json.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\obj\Release\Petronas.SampleApp.Repository.csprojResolveAssemblyReference.cache
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\obj\Release\Petronas.SampleApp.Repository.csproj.CoreCompileInputs.cache
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\obj\Release\Petronas.SampleApp.Repository.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\obj\Release\Petronas.SampleApp.Repository.pdb
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\System.Web.Cors.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Petronas.SampleApp.Repository.dll.config
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Petronas.SampleApp.Repository.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Petronas.SampleApp.Repository.pdb
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\AutoMapper.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\EntityFramework.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\EntityFramework.SqlServer.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\FluentValidation.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.AspNet.Identity.Core.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.AspNet.Identity.Owin.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.Owin.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.Owin.Security.Cookies.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.Owin.Security.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.Owin.Security.OAuth.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Newtonsoft.Json.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Owin.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Petronas.SampleApp.Common.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Petronas.SampleApp.Model.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\System.Net.Http.Extensions.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\System.Net.Http.Formatting.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\System.Net.Http.Primitives.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\System.Web.Cors.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Petronas.SampleApp.Common.pdb
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Petronas.SampleApp.Common.dll.config
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Petronas.SampleApp.Model.pdb
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Petronas.SampleApp.Model.dll.config
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\AutoMapper.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\EntityFramework.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\EntityFramework.SqlServer.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\FluentValidation.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.AspNet.Identity.Core.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.AspNet.Identity.Owin.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.Owin.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.Owin.Security.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.Owin.Security.Cookies.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Microsoft.Owin.Security.OAuth.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\bin\Release\Newtonsoft.Json.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\obj\Release\Petronas.SampleApp.Repository.csprojResolveAssemblyReference.cache
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\obj\Release\Petronas.SampleApp.Repository.csproj.CoreCompileInputs.cache
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\obj\Release\Petronas.SampleApp.Repository.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Repository\obj\Release\Petronas.SampleApp.Repository.pdb

@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petronas.SampleApp.Model", "Petronas.SampleApp.Model\Petronas.SampleApp.Model.csproj", "{F904140A-F6C5-448F-B91E-7922F230FAE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petronas.SampleApp.Repository", "Petronas.SampleApp.Repository\Petronas.SampleApp.Repository.csproj", "{4ABA8404-EF55-43AE-8C6D-B3AC9B049DD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petronas.SampleApp.Service", "Petronas.SampleApp.Service\Petronas.SampleApp.Service.csproj", "{CBB65491-4233-4087-873B-E422B6083FD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petronas.SampleApp.Common", "Petronas.SampleApp.Common\Petronas.SampleApp.Common.csproj", "{2976EA03-F7B2-4D8C-8D82-4CD5E0926BE1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Appendix", "Appendix", "{27E59F8E-0BBA-401F-BD4F-2F0258CAAC77}"
+	ProjectSection(SolutionItems) = preProject
+		Appendix\Code First Commands.txt = Appendix\Code First Commands.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petronas.SampleApp.WebApi", "Petronas.SampleApp.WebApi\Petronas.SampleApp.WebApi.csproj", "{D665ABD8-54C9-4D4A-B8AD-E783943F536F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F904140A-F6C5-448F-B91E-7922F230FAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F904140A-F6C5-448F-B91E-7922F230FAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F904140A-F6C5-448F-B91E-7922F230FAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F904140A-F6C5-448F-B91E-7922F230FAE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ABA8404-EF55-43AE-8C6D-B3AC9B049DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABA8404-EF55-43AE-8C6D-B3AC9B049DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABA8404-EF55-43AE-8C6D-B3AC9B049DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABA8404-EF55-43AE-8C6D-B3AC9B049DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB65491-4233-4087-873B-E422B6083FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB65491-4233-4087-873B-E422B6083FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB65491-4233-4087-873B-E422B6083FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB65491-4233-4087-873B-E422B6083FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2976EA03-F7B2-4D8C-8D82-4CD5E0926BE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2976EA03-F7B2-4D8C-8D82-4CD5E0926BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2976EA03-F7B2-4D8C-8D82-4CD5E0926BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2976EA03-F7B2-4D8C-8D82-4CD5E0926BE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D665ABD8-54C9-4D4A-B8AD-E783943F536F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D665ABD8-54C9-4D4A-B8AD-E783943F536F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D665ABD8-54C9-4D4A-B8AD-E783943F536F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D665ABD8-54C9-4D4A-B8AD-E783943F536F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DB9F601-3584-4883-81C8-B6FE83B82727}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html ng-app="app">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title ng-bind="'AngularJS Project Structure | ' + $state.current.data.pageTitle"></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <!--[if lt IE 9]>
+        <script src="/assets/js/html5shiv.js"></script>
+    <![endif]-->
+    <!-- Import Dependencies -->
+    <!-- bower:css -->
+    <!-- endinject -->
+    <!-- inject:fonts:css -->
+    <link rel="stylesheet" href="/assets/fonts/pet-icons/styles.css">
+    <!-- endinject -->
+    <!-- inject:css -->
+    <link rel="stylesheet" href="/assets/css/libs-1517544878468.min.css">
+    <link rel="stylesheet" href="/assets/css/main-1517544878468.css">
+    <!-- endinject -->
+    <base href="/ ">
+</head>
+
+<body>
+    <pet-page-waiting></pet-page-waiting>
+    <div class="pet-main-layout">
+        <section class="left-aside" ui-view="left-aside"></section>
+        <section class="right-aside">
+            <div ui-view="header"></div>
+            <div ui-view></div>
+            <div ui-view="footer"></div>
+        </section>
+    </div>
+    
+    <!-- Import Dependencies -->
+    <!-- bower:js -->
+    <!-- endinject -->
+    <!-- inject:libs:js -->
+    <script src="/libs/vendor-1517544878468.js"></script>
+    <!-- endinject -->
+    <!-- inject:js -->
+    <script src="/main/app.module.js"></script>
+    <script src="/main/app.router.js"></script>
+    <script src="/src/about/aboutus/aboutus.controler.js"></script>
+    <script src="/src/about/samples/samples.controller.js"></script>
+    <script src="/src/common-ui/table/table.controller.js"></script>
+    <script src="/utilities/components/useraction/useraction.directive.js"></script>
+    <script src="/main/configuration.js"></script>
+    <script src="/utilities/directives/dropdownbox/dropdownbox.directive.js"></script>
+    <script src="/utilities/directives/general.directive.js"></script>
+    <script src="/utilities/directives/notification/notification.directive.js"></script>
+    <script src="/utilities/directives/notification/notification.service.js"></script>
+    <script src="/utilities/directives/selector/petselect.directive.js"></script>
+    <script src="/utilities/directives/sortby/sortby.directive.js"></script>
+    <script src="/utilities/directives/waiting/waiting.directive.js"></script>
+    <script src="/utilities/directives/waiting/waiting.service.js"></script>
+    <script src="/utilities/filter.js"></script>
+    <script src="/src/home/home.controler.js"></script>
+    <script src="/src/landing/landing.controller.js"></script>
+    <script src="/utilities/main.js"></script>
+    <script src="/main/services/auth.model.js"></script>
+    <script src="/main/services/auth.service.js"></script>
+    <script src="/utilities/services/general.service.js"></script>
+    <script src="/main/services/localstorage.service.js"></script>
+    <script src="/main/services/pet.dataservice.js"></script>
+    <script src="/main/services/token.service.js"></script>
+    <script src="/main/services/user.service.js"></script>
+    <script src="/utilities/transforms/user.model.js"></script>
+    <script src="/src/user/login/login.controler.js"></script>
+    <script src="/src/user/login/login.model.js"></script>
+    <script src="/src/user/logout/logout.service.js"></script>
+    <script src="/utilities/utilities.js"></script>
+    <script src="/src/vendor/registration/registration.controller.js"></script>
+    <script src="/src/widgets/footer-cus/footer.controller.js"></script>
+    <script src="/src/widgets/footer-df/footer.controller.js"></script>
+    <script src="/src/widgets/footer/footer.controller.js"></script>
+    <script src="/src/widgets/header-cus/header.controller.js"></script>
+    <script src="/src/widgets/header-cus/unlogged/header.controller.js"></script>
+    <script src="/src/widgets/header-df/header.controller.js"></script>
+    <script src="/src/widgets/header/header.controller.js"></script>
+    <script src="/src/widgets/leftaside/leftaside.controller.js"></script>
+    <!-- endinject -->    
+</body>
+
+</html>

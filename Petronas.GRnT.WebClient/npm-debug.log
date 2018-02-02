@@ -1,0 +1,122 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Enterprise\\Web\\External\\Node.exe',
+1 verbose cli   'C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Enterprise\\Web\\External\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install' ]
+2 info using npm@3.3.4
+3 info using node@v5.4.1
+4 silly loadCurrentTree Starting
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 silly install normalizeTree
+8 silly loadCurrentTree Finishing
+9 silly loadIdealTree Starting
+10 silly install loadIdealTree
+11 silly cloneCurrentTree Starting
+12 silly install cloneCurrentTreeToIdealTree
+13 silly cloneCurrentTree Finishing
+14 silly loadShrinkwrap Starting
+15 silly install loadShrinkwrap
+16 silly loadShrinkwrap Finishing
+17 silly loadAllDepsIntoIdealTree Starting
+18 silly install loadAllDepsIntoIdealTree
+19 silly fetchNamedPackageData gulp-flatten
+20 silly mapToRegistry name gulp-flatten
+21 silly mapToRegistry using default registry
+22 silly mapToRegistry registry https://registry.npmjs.org/
+23 silly mapToRegistry uri https://registry.npmjs.org/gulp-flatten
+24 silly fetchNamedPackageData gulp-jscs
+25 silly mapToRegistry name gulp-jscs
+26 silly mapToRegistry using default registry
+27 silly mapToRegistry registry https://registry.npmjs.org/
+28 silly mapToRegistry uri https://registry.npmjs.org/gulp-jscs
+29 silly fetchNamedPackageData gulp-jshint
+30 silly mapToRegistry name gulp-jshint
+31 silly mapToRegistry using default registry
+32 silly mapToRegistry registry https://registry.npmjs.org/
+33 silly mapToRegistry uri https://registry.npmjs.org/gulp-jshint
+34 verbose request uri https://registry.npmjs.org/gulp-flatten
+35 verbose request no auth needed
+36 info attempt registry request try #1 at 8:55:34 AM
+37 verbose request id dd012ac030578dd3
+38 http request GET https://registry.npmjs.org/gulp-flatten
+39 verbose request uri https://registry.npmjs.org/gulp-jscs
+40 verbose request no auth needed
+41 info attempt registry request try #1 at 8:55:34 AM
+42 http request GET https://registry.npmjs.org/gulp-jscs
+43 verbose request uri https://registry.npmjs.org/gulp-jshint
+44 verbose request no auth needed
+45 info attempt registry request try #1 at 8:55:34 AM
+46 http request GET https://registry.npmjs.org/gulp-jshint
+47 info retry will retry, error on last attempt: Error: connect ETIMEDOUT 151.101.8.162:443
+48 info retry will retry, error on last attempt: Error: connect ETIMEDOUT 151.101.8.162:443
+49 info retry will retry, error on last attempt: Error: connect ETIMEDOUT 151.101.8.162:443
+50 info attempt registry request try #2 at 8:56:05 AM
+51 http request GET https://registry.npmjs.org/gulp-jshint
+52 info attempt registry request try #2 at 8:56:05 AM
+53 http request GET https://registry.npmjs.org/gulp-jscs
+54 info attempt registry request try #2 at 8:56:05 AM
+55 http request GET https://registry.npmjs.org/gulp-flatten
+56 info retry will retry, error on last attempt: Error: connect ETIMEDOUT 151.101.8.162:443
+57 info retry will retry, error on last attempt: Error: connect ETIMEDOUT 151.101.8.162:443
+58 info retry will retry, error on last attempt: Error: connect ETIMEDOUT 151.101.8.162:443
+59 info attempt registry request try #3 at 8:57:26 AM
+60 http request GET https://registry.npmjs.org/gulp-jscs
+61 info attempt registry request try #3 at 8:57:26 AM
+62 http request GET https://registry.npmjs.org/gulp-jshint
+63 info attempt registry request try #3 at 8:57:26 AM
+64 http request GET https://registry.npmjs.org/gulp-flatten
+65 silly fetchPackageMetaData Error: connect ETIMEDOUT 151.101.8.162:443
+65 silly fetchPackageMetaData     at Object.exports._errnoException (util.js:856:11)
+65 silly fetchPackageMetaData     at exports._exceptionWithHostPort (util.js:879:20)
+65 silly fetchPackageMetaData     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1062:14)
+65 silly fetchPackageMetaData  error for gulp-jscs@^4.1.0 { [Error: connect ETIMEDOUT 151.101.8.162:443]
+65 silly fetchPackageMetaData   code: 'ETIMEDOUT',
+65 silly fetchPackageMetaData   errno: 'ETIMEDOUT',
+65 silly fetchPackageMetaData   syscall: 'connect',
+65 silly fetchPackageMetaData   address: '151.101.8.162',
+65 silly fetchPackageMetaData   port: 443 }
+66 silly fetchPackageMetaData Error: connect ETIMEDOUT 151.101.8.162:443
+66 silly fetchPackageMetaData     at Object.exports._errnoException (util.js:856:11)
+66 silly fetchPackageMetaData     at exports._exceptionWithHostPort (util.js:879:20)
+66 silly fetchPackageMetaData     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1062:14)
+66 silly fetchPackageMetaData  error for gulp-jshint@^2.1.0 { [Error: connect ETIMEDOUT 151.101.8.162:443]
+66 silly fetchPackageMetaData   code: 'ETIMEDOUT',
+66 silly fetchPackageMetaData   errno: 'ETIMEDOUT',
+66 silly fetchPackageMetaData   syscall: 'connect',
+66 silly fetchPackageMetaData   address: '151.101.8.162',
+66 silly fetchPackageMetaData   port: 443 }
+67 silly fetchPackageMetaData Error: connect ETIMEDOUT 151.101.8.162:443
+67 silly fetchPackageMetaData     at Object.exports._errnoException (util.js:856:11)
+67 silly fetchPackageMetaData     at exports._exceptionWithHostPort (util.js:879:20)
+67 silly fetchPackageMetaData     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1062:14)
+67 silly fetchPackageMetaData  error for gulp-flatten@^0.4.0 { [Error: connect ETIMEDOUT 151.101.8.162:443]
+67 silly fetchPackageMetaData   code: 'ETIMEDOUT',
+67 silly fetchPackageMetaData   errno: 'ETIMEDOUT',
+67 silly fetchPackageMetaData   syscall: 'connect',
+67 silly fetchPackageMetaData   address: '151.101.8.162',
+67 silly fetchPackageMetaData   port: 443 }
+68 silly rollbackFailedOptional Starting
+69 silly rollbackFailedOptional Finishing
+70 silly runTopLevelLifecycles Starting
+71 silly runTopLevelLifecycles Finishing
+72 silly install printInstalled
+73 verbose stack Error: connect ETIMEDOUT 151.101.8.162:443
+73 verbose stack     at Object.exports._errnoException (util.js:856:11)
+73 verbose stack     at exports._exceptionWithHostPort (util.js:879:20)
+73 verbose stack     at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1062:14)
+74 verbose cwd C:\Working\TechnologyMarketPlace\Frontend\Petronas.GRnT.WebClient
+75 error Windows_NT 10.0.16299
+76 error argv "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Enterprise\\Web\\External\\Node.exe" "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Enterprise\\Web\\External\\node_modules\\npm\\bin\\npm-cli.js" "install"
+77 error node v5.4.1
+78 error npm  v3.3.4
+79 error code ETIMEDOUT
+80 error errno ETIMEDOUT
+81 error syscall connect
+82 error network connect ETIMEDOUT 151.101.8.162:443
+82 error network This is most likely not a problem with npm itself
+82 error network and is related to network connectivity.
+82 error network In most cases you are behind a proxy or have bad network settings.
+82 error network
+82 error network If you are behind a proxy, please make sure that the
+82 error network 'proxy' config is set properly.  See: 'npm help config'
+83 verbose exit [ 1, true ]

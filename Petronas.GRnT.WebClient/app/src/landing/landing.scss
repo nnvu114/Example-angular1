@@ -1,0 +1,48 @@
+
+$emerald-green: #00A19C;
+@mixin roltateDX($deg) {
+    -webkit-transform: rotateX($deg);
+    -moz-transform: rotateX($deg);
+    transform: rotateX($deg);
+}
+
+.landing-page {
+    height: 100vh;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    background-image: url(/assets/img/petronas-towers.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    .welcome-sms {
+        display: inline-block;
+        margin: auto;
+        padding: 15px;
+        border: 2px solid $emerald-green;
+        border-radius: 5px;
+        background-color: rgba($color: $white, $alpha: 1);
+        color: $emerald-green;
+        box-shadow: 0 0 14px;
+        .access-me {
+            margin: 0;
+            padding: 15px 0 0;
+            a {
+                color: $emerald-green;
+                animation: rollaroundX 6s infinite linear;
+                font-weight: 600;
+                margin-top: 10px;
+                display: inline-block;
+                &:hover {
+                    animation: none;
+                }
+            }
+        }
+    }
+    @keyframes rollaroundX {
+        from {@include roltateDX(1deg)}
+        to   {@include roltateDX(359deg)}
+    }
+}

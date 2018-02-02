@@ -1,0 +1,33 @@
+<div class="petselect-container"
+    ng-clickout="Ctrl.loseFocus();"
+    ng-class="{'focus': Ctrl.showOption}">
+    <label ng-click="Ctrl.letShowOption()"
+        ng-if="Ctrl.label"
+        ng-class="{'placeholder': !Ctrl.ngModel}">{{Ctrl.label}} <span class="pull-right"><i class="icon icon-pet-i-down"></i></span></label>
+    <ul class="opions-container" ng-style="Ctrl.optionHeight">
+        <li ng-click="Ctrl.selected(null)" ng-if="!Ctrl.required" class="option default-val">{{Ctrl.placeholder}}</li>
+        <li class="option"
+            ng-repeat="o in Ctrl.options">
+            <label ng-class="{'active': Ctrl.ngModel && (Ctrl.ngModel == o[Ctrl.valueOfOption])}" ng-click="Ctrl.selected(o)">{{o[Ctrl.labelOfValue]}}</label>
+            <pet-selector-multiple-level
+                ng-if="o[Ctrl.childKey].length > 0"
+                ng-model="o[Ctrl.childKey]"
+                template="'pet.selector.multiple.level.html'"></pet-selector-multiple-level>
+        </li>
+    </ul>
+</div>
+
+<script type="text/ng-template" id="pet.selector.multiple.level.html">
+    <ul class="nested-level">
+        <li class="option"
+            ng-repeat="d in ngModelItem">
+            <label ng-click="Ctrl.selected(d)"
+                ng-class="{'active': Ctrl.ngModel && (Ctrl.ngModel == d[Ctrl.valueOfOption])}">{{d[Ctrl.labelOfValue]}}</label>
+            <pet-selector-multiple-level
+                ng-if="d[Ctrl.childKey].length > 0"
+                ng-model="d[Ctrl.childKey]"
+                template="'pet.selector.multiple.level.html'">
+            </pet-selector-multiple-level>
+        </li>
+    </ul>
+</script>

@@ -1,0 +1,165 @@
+{
+        "statusCode": 0,
+        "statusText": null,
+        "data": {
+            "total": 4,
+            "data": [
+                {
+                    "name": "Star",
+                    "action": "",
+                    "iconName":"icon-pet-i-info",
+                    "roles": [
+                        "Public"
+                    ],
+                    "children": [
+                        {
+                            "name": "Custom tabs with steps control",
+                            "action": true,
+                            "url": "root.example",
+                            "roles": [
+                                "Public"
+                            ],
+                            "children": []
+                        },
+                        {
+                            "name": "Samples",
+                            "action": true,
+                            "url": "about.samples",
+                            "roles": [
+                                "Public"
+                            ],
+                            "children": []
+                        },
+                        {
+                            "name": "About us",
+                            "action": true,
+                            "url": "about.aboutus",
+                            "roles": [
+                                "Public"
+                            ],
+                            "children": []
+                        },{
+                            "name": "Submitted Evalution",
+                            "action": true,
+                            "url": "",
+                            "roles": [
+                                "Public"
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Report",
+                    "action": "",
+                    "iconName": "icon-pet-i-user-documents",
+                    "roles": [
+                        "Public"
+                    ],
+                    "children": []
+                },
+                {
+                    "name": "Pac",
+                    "action": "",
+                    "iconName": "icon-pet-i-users",
+                    "roles": [
+                        "Public"
+                    ],
+                    "children": [
+                        {
+                            "name": "Manage Contract Info",
+                            "action": true,
+                            "url": "",
+                            "roles": [
+                                "Public"
+                            ],
+                            "children": []
+                        },{
+                            "name": "STAR Submission List",
+                            "action": true,
+                            "url": "",
+                            "roles": [
+                                "Public"
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Admin",
+                    "action": "",
+                    "iconName": "icon-pet-i-user",
+                    "roles": [
+                        "Public"
+                    ],
+                    "children": [
+                        {
+                            "name": "Manage User",
+                            "action": true,
+                            "url": "",
+                            "roles": [
+                                "Public"
+                            ],
+                            "children": []
+                        },{
+                            "name": "Manage PAC List",
+                            "action": true,
+                            "url": "",
+                            "roles": [
+                                "Public"
+                            ],
+                            "children": []
+                        },{
+                            "name": "Manage Evalution",
+                            "action": true,
+                            "url": "",
+                            "roles": [
+                                "Public"
+                            ],
+                            "children": []
+                        },{
+                            "name": "Report Weightage Contribution",
+                            "action": true,
+                            "url": "",
+                            "roles": [
+                                "Public"
+                            ],
+                            "children": []
+                        },{
+                            "name": "Manage Notification",
+                            "action": true,
+                            "url": "",
+                            "roles": [
+                                "Public"
+                            ],
+                            "children": []
+                        },{
+                            "name": "Manage Report Cycle",
+                            "action": true,
+                            "url": "",
+                            "roles": [
+                                "Public"
+                            ],
+                            "children": []
+                        },{
+                            "name": "Audit log",
+                            "action": true,
+                            "url": "",
+                            "roles": [
+                                "Public"
+                            ],
+                            "children": []
+                        },{
+                            "name": "Manage Guidline",
+                            "action": true,
+                            "url": "",
+                            "roles": [
+                                "Public"
+                            ],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    }

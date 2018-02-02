@@ -1,0 +1,28 @@
+<div class="ht-sortby"
+    ng-class="{'expand': Ctrl.openedSelector}">
+    <ul class="sort-container"
+        ng-clickout="Ctrl.openedSelector = false;"
+        ng-click="Ctrl.openedSelector = !Ctrl.openedSelector">
+        <h6 class="title">
+            <label>Sort by</label>
+            <span ng-if="Ctrl.openedSelector"
+                class="sort-icon"><i class="icon icon-pet-i-up"></i></span>
+            <span ng-if="!Ctrl.openedSelector"
+                class="sort-icon"><i class="icon icon-pet-i-down"></i></span>
+        </h6>
+        <li class="sort-type" ng-repeat="f in Ctrl.data">
+            <ul class="sortby">
+                <h6 class="sort-field">{{f.label}}</h6>
+                <li class="soft-field-type"
+                    ng-repeat="i in f.items"
+                    ng-click="Ctrl.selected(i);"
+                    active-for="soft-field-type"
+                    active="active"
+                    un-active="active">
+                    <span>{{i.label}}</span>
+                    <span class="sort-icon"><i class="{{i.icon}}"></i></span>
+                </li>
+            </ul>
+        </li>
+    </ul>
+</div>

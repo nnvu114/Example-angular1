@@ -1,0 +1,59 @@
+<div class="pet-signin-page">
+    <div class="form-area">
+        <section class="signin-header">
+            <div class="curvate-container">
+                <div class="ratio-box">
+                    <div class="logo-center">
+                        <img src="/assets/img/petronas_logo_240.png" alt="PETRONAS ICT SDN BHD">
+                    </div>
+                    <label class="signin-title">Refinery of The Future</label>
+                </div>
+            </div>
+        </section>
+        <section class="signin-body">
+            <form name="LoginForm" ng-submit="vm.signin()" class="login-container">
+                <div class="form-group icon-input-group"
+                    ng-class="{'input-loading': vm.opuDataLoading}">
+                    <i class="icon icon-pet-i-petrol6"></i>
+                    <select
+                        class="form-control"
+                        id="petgroup"
+                        ng-model="vm.loginData.opu"
+                        ng-disabled="vm.opuDataLoading"
+                        required>
+                        <option value="" hidden selected disabled>Choose your OPU</option>
+                        <option value="{{o.Id}}" ng-repeat="o in vm.opuList">{{o.Name}}</option>
+                    </select>
+                </div>
+                <div class="form-group icon-input-group">
+                    <i class="icon icon-pet-i-user"></i>
+                    <input type="text"
+                        class="form-control"
+                        ng-model="vm.loginData.Username"
+                        id="petuname"
+                        placeholder="Your user name" required>
+                </div>
+                <div class="form-group icon-input-group">
+                    <i class="icon icon-pet-i-lock"></i>
+                    <input type="password"
+                        class="form-control"
+                        ng-model="vm.loginData.Password"
+                        id="petpwd"
+                        placeholder="Password" required>
+                </div>
+                <p class="error" ng-if="vm.signedInFalse">
+                    Your username or password is invalid, please try again!
+                </p>
+                <div class="form-group signin-action">
+                    <button type="submit" class="btn btn-emerald-green btn-block">Sign In</button>
+                </div>
+                <div class="more-info text-center">
+                    <a href="#" class="href-action no-underline text-gray">Forgot password</a>
+                </div>
+                <div class="more-info text-center">
+                    <a ui-sref="default.register" class="href-action no-underline text-gray">Register Account</a>
+                </div>
+            </form>
+        </section>
+    </div>
+</div>

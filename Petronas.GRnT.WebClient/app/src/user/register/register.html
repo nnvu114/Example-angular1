@@ -1,0 +1,241 @@
+<div class="pet-signin-page" ng-controller="RegisterCtrl as vm">
+    <div class="form-area" style="max-width: 1000px;">
+        <section class="signin-header">
+            <div class="curvate-container" style="padding-bottom: 18%;">
+                <div class="ratio-box">
+                    <div class="logo-center">
+                        <img src="/assets/img/petronas_logo_240.png" alt="PETRONAS ICT SDN BHD">
+                    </div>
+                    <label class="signin-title">Register Account</label>
+                </div>
+            </div>
+        </section>
+        <section class="signin-body">
+            <form novalidate name="companyForm" ng-submit="companyForm.$valid && vm.registerAccount(vm.model)">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label for="companyName" class="cols-sm-2 control-label">Company Name</label>
+                            <div class="cols-sm-10">
+                                <div class="input-group">
+                                    <span class="input-group-addon">
+                                        <i class="fa fa-envelope fa" aria-hidden="true"></i>
+                                    </span>
+                                    <input type="text" class="form-control" name="companyName" ng-model="vm.model.companyName" id="companyName" placeholder="Enter Company Name"
+                                    />
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="email" class="cols-sm-2 control-label">Company Address</label>
+                            <div class="cols-sm-10">
+                                <div class="input-group">
+                                    <span class="input-group-addon">
+                                        <i class="fa fa-envelope fa" aria-hidden="true"></i>
+                                    </span>
+                                    <input type="text" class="form-control" name="companyAddress" ng-model="vm.model.address" id="companyAddress" placeholder="Enter Company Address"
+                                    />
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="username" class="cols-sm-2 control-label">Contact Person Name</label>
+                            <div class="cols-sm-10">
+                                <div class="input-group">
+                                    <span class="input-group-addon">
+                                        <i class="fa fa-users fa" aria-hidden="true"></i>
+                                    </span>
+                                    <input type="text" class="form-control" name="contactPerson" ng-model="vm.model.contactPersonName" id="contactPerson" placeholder="Enter Contact Person Name"
+                                    />
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="username" class="cols-sm-2 control-label">Contact Number</label>
+                            <div class="cols-sm-10">
+                                <div class="input-group">
+                                    <span class="input-group-addon">
+                                        <i class="fa fa-users fa" aria-hidden="true"></i>
+                                    </span>
+                                    <input type="text" class="form-control" name="contactNumber" ng-model="vm.model.contactNumber" id="contactNumber" placeholder="Enter Contact Number"
+                                    />
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="username" class="cols-sm-2 control-label">Company Website</label>
+                            <div class="cols-sm-10">
+                                <div class="input-group">
+                                    <span class="input-group-addon">
+                                        <i class="fa fa-users fa" aria-hidden="true"></i>
+                                    </span>
+                                    <input type="text" class="form-control" name="companyWebsite" ng-model="vm.model.website" id="companyWebsite" placeholder="Enter Company Website"
+                                    />
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="username" class="cols-sm-2 control-label">Company No <span class="important">(*)</span></label>
+                            <div class="cols-sm-10">
+                                <div class="input-group">
+                                    <span class="input-group-addon">
+                                        <i class="fa fa-users fa" aria-hidden="true"></i>
+                                    </span>
+                                    <input type="text" class="form-control" required name="companyNo" id="companyNo" ng-model="vm.model.companyNumber" placeholder="Enter Company No"
+                                    />
+                                </div>
+
+                                <div ng-show="companyForm.$submitted || companyForm.companyNo.$touched">
+                                    <span class="error" ng-show="companyForm.companyNo.$error.required">Company No is required</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="username" class="cols-sm-2 control-label">Contact Email
+                                <span class="important">(*)</span>
+                            </label>
+                            <div class="cols-sm-10">
+                                <div class="input-group">
+                                    <span class="input-group-addon">
+                                        <i class="fa fa-users fa" aria-hidden="true"></i>
+                                    </span>
+                                    <input type="email" class="form-control" name="contactEmail" ng-model="vm.model.userRegisterInfo.email" required id="contactEmail"
+                                        placeholder="Enter Contact Email" />
+                                </div>
+                                <div ng-show="companyForm.$submitted || companyForm.contactEmail.$touched">
+                                    <span class="error" ng-show="companyForm.contactEmail.$error.required">Email is required</span>
+                                </div>
+                                <span class="error" ng-show="companyForm.contactEmail.$error.email">
+                                    Not valid email!</span>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-6">
+
+                        <div class="form-group" style="margin-bottom: 0px;">
+                            <label for="username" class="cols-sm-2 control-label">Business Type</label>
+                            <div class="cols-md-12">
+                                <div class="col-md-12">
+                                    <div class="form-check" ng-repeat="businessType in businessTypes">
+                                        <label for="chkCustomer_{{businessType.FruitId}}">
+                                            <input id="chkCustomer_{{businessType.FruitId}}" type="checkbox" ng-model="businessType.Selected" /> {{businessType.Name}}
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-check">
+                                        <label>
+                                            <input type="checkbox" name="check" ng-model="vm.model.businessTypesOther">
+                                            <span class="label-text">Others (please specify)</span>
+                                            <div class="input-group" ng-if="vm.model.businessTypesOther">
+                                                <span class="input-group-addon">
+                                                    <i class="fa fa-users fa" aria-hidden="true"></i>
+                                                </span>
+                                                <input type="text" class="form-control" name="others" required ng-model="vm.model.businessTypesOtherDes" placeholder="Enter Others (please specify)"
+                                                />
+                                            </div>
+                                        </label>
+                                    </div>
+                                    <div ng-show="vm.model.businessTypesOther && (companyForm.$submitted || companyForm.others.$touched)">
+                                        <span class="error" ng-show="companyForm.others.$error.required">Others is required</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group" style="margin-bottom: 0px !important;">
+                            <label for="username" class="cols-sm-2 control-label">PETRONAS Licensed Company</label>
+                            <div class="cols-sm-10">
+                                <div class="col-md-12">
+                                    <div class="form-check">
+                                        <label>
+                                            <input type="radio" name="licensedCompany" ng-model="vm.model.isPetronasLicensedCompany" ng-required="!vm.model.isPetronasLicensedCompany" value="true">
+                                            <span class="label-text">Yes</span>
+                                            <div ng-if="vm.model.isPetronasLicensedCompany == 'true'">
+                                                <span for="registrationNo" class="label-text">Registration No/SWEC CODE</span>
+                                                <div class="input-group">
+                                                    <span class="input-group-addon">
+                                                        <i class="fa fa-users fa" aria-hidden="true"></i>
+                                                    </span>
+                                                    <input type="text" class="form-control" ng-model="vm.model.registrationSWECCode" name="registrationNo" id="registrationNo"
+                                                        placeholder="Enter Registration No/SWEC CODE" />
+                                                </div>
+                                            </div>
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-check">
+                                        <label>
+                                            <input type="radio" name="licensedCompany" ng-model="vm.model.isPetronasLicensedCompany" ng-required="!vm.model.isPetronasLicensedCompany" value="false">
+                                            <span class="label-text">No</span>
+                                        </label>
+                                    </div>
+                                </div>
+                                <div ng-show="companyForm.$submitted">
+                                    <span class="error" ng-show="companyForm.licensedCompany.$error.required">PETRONAS Licensed Company is required</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="password" class="cols-sm-2 control-label">Password
+                                <span class="important">(*)</span>
+                            </label>
+                            <div class="cols-sm-10">
+                                <div class="input-group">
+                                    <span class="input-group-addon">
+                                        <i class="fa fa-lock fa-lg" aria-hidden="true"></i>
+                                    </span>
+                                    <input type="password" class="form-control" required ng-model="vm.model.userRegisterInfo.password" name="password" id="password"
+                                        placeholder="Enter your Password" />
+                                </div>
+                                <div ng-show="companyForm.$submitted || companyForm.password.$touched">
+                                    <span class="error" ng-show="companyForm.password.$error.required">Password is required</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="confirm" class="cols-sm-2 control-label">Confirm Password
+                                <span class="important">(*)</span>
+                            </label>
+                            <div class="cols-sm-10">
+                                <div class="input-group">
+                                    <span class="input-group-addon">
+                                        <i class="fa fa-lock fa-lg" aria-hidden="true"></i>
+                                    </span>
+                                    <input type="password" class="form-control" ng-model="vm.model.userRegisterInfo.confirmPassword" name="confirmPassword" required
+                                        placeholder="Confirm your Password" />
+                                </div>
+                                <div ng-show="companyForm.$submitted || companyForm.confirmPassword.$touched">
+                                    <span class="error" ng-show="companyForm.confirmPassword.$error.required">Confirm password is required</span>
+                                </div>
+                                <div ng-if="companyForm.$submitted || companyForm.confirmPassword.$touched">
+                                    <span ng-show="vm.model.confirmPassword != model.password" class="error">Must match the password</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div vc-recaptcha key="vm.model.key" on-create="vm.setWidgetId(vm.widgetId)" on-success="vm.setResponse(response)" on-expire="vm.cbExpiration()"></div>
+                        <div ng-if="companyForm.$submitted">
+                            <span ng-show="vm.model.captchaResponse == ''" class="error">Invalid Captcha</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-offset-3 col-md-6">
+                    <div class="form-group ">
+                        <button type="submit" class="btn btn-primary btn-lg btn-block login-button">Register</button>
+                    </div>
+                </div>
+            </form>
+        </section>
+    </div>
+</div>

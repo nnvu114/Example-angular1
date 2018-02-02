@@ -1,0 +1,54 @@
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Petronas.SampleApp.Common.dll.config
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Petronas.SampleApp.Common.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Petronas.SampleApp.Common.pdb
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\AutoMapper.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Facebook.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Fizzler.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\FluentValidation.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\HtmlAgilityPack.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Newtonsoft.Json.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\System.Net.Http.Extensions.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\System.Net.Http.Formatting.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\System.Net.Http.Primitives.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\AutoMapper.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Facebook.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Fizzler.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Fizzler.Systems.HtmlAgilityPack.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\FluentValidation.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\HtmlAgilityPack.pdb
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\HtmlAgilityPack.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Newtonsoft.Json.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\obj\Release\Petronas.SampleApp.Common.csprojResolveAssemblyReference.cache
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\obj\Release\Petronas.SampleApp.Common.csproj.CoreCompileInputs.cache
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\obj\Release\Petronas.SampleApp.Common.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\obj\Release\Petronas.SampleApp.Common.pdb
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\System.Web.Cors.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Petronas.SampleApp.Common.dll.config
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Petronas.SampleApp.Common.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Petronas.SampleApp.Common.pdb
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\AutoMapper.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Facebook.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Fizzler.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Fizzler.Systems.HtmlAgilityPack.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\FluentValidation.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\HtmlAgilityPack.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Newtonsoft.Json.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\System.Net.Http.Extensions.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\System.Net.Http.Formatting.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\System.Net.Http.Primitives.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\System.Web.Cors.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\AutoMapper.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Facebook.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Fizzler.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Fizzler.Systems.HtmlAgilityPack.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\FluentValidation.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\HtmlAgilityPack.pdb
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\HtmlAgilityPack.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Newtonsoft.Json.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\obj\Release\Petronas.SampleApp.Common.csprojResolveAssemblyReference.cache
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\obj\Release\Petronas.SampleApp.Common.csproj.CoreCompileInputs.cache
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\obj\Release\Petronas.SampleApp.Common.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\obj\Release\Petronas.SampleApp.Common.pdb
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Microsoft.AspNet.Identity.Core.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Common\bin\Release\Microsoft.AspNet.Identity.Core.xml

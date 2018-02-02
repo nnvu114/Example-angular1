@@ -1,0 +1,90 @@
+.ht-sortby {
+    position: relative;
+    display: inline-block;
+    width: auto;
+    border-radius: 5px;
+    background: $white-smoke;
+    height: 31px;
+    h6 {
+        font-size: 1rem;
+    }
+    &.expand {
+        overflow: visible;
+        .sort-container {
+            position: relative;
+            z-index: 1;
+            box-shadow: 0 0 7px;
+            max-height: 500px;
+        }
+    }
+    .sort-container {
+        padding: 4px 8px;
+        max-height: 31px;
+        min-width: 99px;
+        background: $white;
+        border-radius: 5px;
+        overflow: hidden;
+        @include transition(max-height .5s linear);
+        border: 1px solid lighten($color: $nobel, $amount: 20);
+        .title {
+            margin: 0 0 10px 0;
+            @include flexbox();
+            justify-content: space-between;
+            align-content: center;
+            padding: 2px 0;
+            cursor: hand;
+            cursor: pointer;
+            label {
+                margin: 0;
+                font-size: inherit;
+            }
+            .sort-icon {
+                @include flexbox;
+                justify-content: center;
+                align-items: center;
+            }
+        }
+        .sort-type {
+            .sortby {
+                padding-left: 10px;
+                .sort-field {
+                    margin: 0 0 3px 0;
+                    color: $deep-gray;
+                    font-weight: 600;
+                }
+                .soft-field-type {
+                    padding: 2px 5px 3px 10px;
+                    @include flexbox();
+                    justify-content: space-between;
+                    align-content: center;
+                    cursor: hand;
+                    cursor: pointer;
+                    &:last-child {
+                        border-top: 1px solid lighten($nobel, 20);
+                    }
+                    span {
+                        color: $deep-gray;
+                        &:not(:first-child) {
+                            margin-left: 30px;
+                        }
+                        &.sort-icon {
+                            @include flexbox;
+                            justify-content: center;
+                            align-items: center;
+                        }
+                    }
+                    &:hover {
+                        span {
+                            color: lighten($emerald-green, 10);
+                        }
+                    }
+                    &.active {
+                        span {
+                            color: $emerald-green;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

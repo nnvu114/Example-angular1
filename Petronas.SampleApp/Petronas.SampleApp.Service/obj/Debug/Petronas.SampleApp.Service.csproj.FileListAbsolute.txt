@@ -1,0 +1,68 @@
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Service.dll.config
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Service.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Service.pdb
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\AutoMapper.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\EntityFramework.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\FluentValidation.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Common.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Model.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Repository.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\System.Net.Http.Extensions.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\System.Net.Http.Formatting.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\System.Net.Http.Primitives.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\System.Web.Cors.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Common.pdb
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Common.dll.config
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Model.pdb
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Model.dll.config
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Repository.pdb
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Repository.dll.config
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\AutoMapper.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\EntityFramework.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\FluentValidation.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\obj\Debug\Petronas.SampleApp.Service.csprojResolveAssemblyReference.cache
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\obj\Debug\Petronas.SampleApp.Service.csproj.CoreCompileInputs.cache
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\obj\Debug\Petronas.SampleApp.Service.dll
+C:\Working\NET Framework\Petronas.SampleApp\Petronas.SampleApp.Service\obj\Debug\Petronas.SampleApp.Service.pdb
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Service.dll.config
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Service.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Service.pdb
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\AutoMapper.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\EntityFramework.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\FluentValidation.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Newtonsoft.Json.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Common.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Model.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Repository.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\System.Net.Http.Extensions.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\System.Net.Http.Formatting.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\System.Net.Http.Primitives.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\System.Web.Cors.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Common.pdb
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Common.dll.config
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Model.pdb
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Model.dll.config
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Repository.pdb
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Petronas.SampleApp.Repository.dll.config
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\AutoMapper.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\EntityFramework.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\FluentValidation.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\bin\Debug\Newtonsoft.Json.xml
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\obj\Debug\Petronas.SampleApp.Service.csprojResolveAssemblyReference.cache
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\obj\Debug\Petronas.SampleApp.Service.csproj.CoreCompileInputs.cache
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\obj\Debug\Petronas.SampleApp.Service.dll
+D:\Petronas.SampleApp\Petronas.SampleApp.Service\obj\Debug\Petronas.SampleApp.Service.pdb

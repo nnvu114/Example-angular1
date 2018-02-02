@@ -1,0 +1,7 @@
+bower_components
+node_modules
+app/libs
+app/assets/css
+dist
+./package-lock.json
+package-lock.json

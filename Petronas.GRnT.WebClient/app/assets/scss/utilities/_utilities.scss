@@ -1,0 +1,337 @@
+
+.pet-container {
+    max-width: $breakdown-xlarge;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.pet-container {
+    @include xLarge {
+        max-width: $breakdown-large;
+    }
+
+    @include large {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    @include medium {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    @include tablet {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    @include xMobile {
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+
+    @include mobile {
+        max-width: 100%;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+}
+
+.pet-client-container {
+    max-width: $xlarge-client;
+    @include xLarge {
+        max-width: $xlarge-client;
+    }
+
+    @include large {
+        max-width: $large-client;
+    }
+
+    @include medium {
+        max-width: $medium-client;
+    }
+
+}
+
+.text-one-line {
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -ms-text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.vertical-center {
+    @include verticalCenter();
+}
+
+i {
+    @include inline-flexbox() {
+        line-height: 1;
+        vertical-align: top;
+    };
+    @extend .cursor-pointer;
+}
+
+a {
+    &:hover, &:focus, &:active, &:visited {
+        color: rgba($color: $emerald-green, $alpha: .87);
+    }
+}
+
+.cursor-pointer {
+    cursor: hand;
+    cursor: pointer;
+}
+
+.clearfix {
+    &:before {
+        content: " ";
+        display: table;
+    }
+    &:after {
+        content: " ";
+        display: table;
+        clear: both;
+    }
+}
+
+.no-underline {
+    &:hover, &:active, &:focus, &:visited {
+        text-decoration: none;
+    }
+}
+
+.no-margin {
+    margin: 0;
+}
+
+.waiting-pet {
+    background: transparent url(/assets/img/waiting_pet.svg) no-repeat top right;
+    background-size: contain;
+}
+
+.waiting-white {
+    background: transparent url(/assets/img/waiting_white.svg) no-repeat top right;
+    background-size: contain;
+}
+
+.waiting-black {
+    background: transparent url(/assets/img/waiting_black.svg) no-repeat top right;
+    background-size: contain;
+}
+
+.text-white-smoke {
+    color: $white-smoke;
+}
+
+.text-emerald-green {
+    color: $emerald-green;
+}
+
+.text-gray {
+    color: $gray;
+}
+
+.btn-emerald-green {
+    @include ht-btn($emerald-green, $white, 0px);
+    &.btn-outline {
+        background-color: $white-smoke;
+        color: $emerald-green;
+        &:focus {
+            color: $emerald-green;
+        }
+    }
+    &.btn-md {
+        padding: 6px 12px;
+    }
+    &.btn-sm {
+        padding: 3px 10px;
+    }
+}
+
+.btn-dark-purple {
+    @include ht-btn($dark-purple, $white, 0px);
+    &.btn-outline {
+        background-color: $white-smoke;
+        color: $dark-purple;
+        &:focus {
+            color: $dark-purple;
+        }
+    }
+    &.btn-md {
+        padding: 6px 12px;
+    }
+    &.btn-sm {
+        padding: 3px 10px;
+    }
+}
+
+.btn-red {
+    @include ht-btn($red, $white, 0px);
+    &.btn-outline {
+        background-color: $white-smoke;
+        color: $red;
+        &:focus {
+            color: $red;
+        }
+    }
+    &.btn-md {
+        padding: 6px 12px;
+    }
+    &.btn-sm {
+        padding: 3px 10px;
+    }
+}
+
+.btn-gold {
+    @include ht-btn($gold, $white, 0px);
+    &.btn-outline {
+        background-color: $white-smoke;
+        color: $gold;
+        &:focus {
+            color: $gold;
+        }
+    }
+    &.btn-md {
+        padding: 6px 12px;
+    }
+    &.btn-sm {
+        padding: 3px 10px;
+    }
+}
+
+.btn-green {
+    @include ht-btn($light-green, $white, 0px);
+    &.btn-outline {
+        background-color: $white-smoke;
+        color: $light-green;
+        &:focus {
+            color: $light-green;
+        }
+    }
+    &.btn-md {
+        padding: 6px 12px;
+    }
+    &.btn-sm {
+        padding: 3px 10px;
+    }
+}
+
+.btn-lime {
+    @include ht-btn($lime, $white, 0px);
+    &.btn-outline {
+        background-color: $white-smoke;
+        color: $lime;
+        &:focus {
+            color: $lime;
+        }
+    }
+    &.btn-md {
+        padding: 6px 12px;
+    }
+    &.btn-sm {
+        padding: 3px 10px;
+    }
+}
+
+.btn-black {
+    @include ht-btn($black, $white, 0px);
+    &.btn-outline {
+        background-color: $white-smoke;
+        color: $black;
+        &:focus {
+            color: $black;
+        }
+    }
+    &.btn-md {
+        padding: 6px 12px;
+    }
+    &.btn-sm {
+        padding: 3px 10px;
+    }
+}
+
+.btn-round {
+    border-radius: 20px;
+}
+
+.icon-input-group {
+    position: relative;
+    @include flexbox() {
+        justify-content: flex-start;
+        align-items: center;
+    };
+    .icon {
+        position: absolute;
+        left: 8px;
+        z-index: 8;
+    }
+    .form-control {
+        padding-left: 30px;
+        &.loading {
+            position: relative;
+            &::after {
+                content: '';
+                @extend .waiting-pet;
+                height: 80%;
+                width: 80px;
+                top: 10%;
+            }
+        }
+    }
+    &.loading {
+        position: relative;
+        &::after {
+            content: '';
+            @extend .waiting-pet;
+            height: 80%;
+            width: 80px;
+            top: 10%;
+        }
+    }
+}
+
+.petinput-inline-group {
+    position: relative;
+    margin: 24px 0;
+    .group-label {
+        position: absolute;
+        top: -16px;
+        left: 0;
+        margin-bottom: 0;
+        font-weight: 500;
+        color: $label-text;
+    }
+    .input-field {
+        border-bottom: 1px solid $border-colour;
+        height: 36px;
+        &.loading {
+            position: relative;
+            &::after {
+                content: '';
+                @extend .waiting-pet;
+                height: 80%;
+                width: 80px;
+                top: 10%;
+            }
+        }
+    }
+    &.activated {
+        .group-label {
+            color: $emerald-green;
+        }
+        .input-field {
+            border-bottom: 2px solid $emerald-green;
+            box-sizing: border-box;
+        }
+    }
+}
+
+@include keyframes(auto-height) {
+    from {max-height: 0; opacity: 0; overflow: hidden}
+    to {max-height: auto; opacity: 1; overflow: hidden}
+}

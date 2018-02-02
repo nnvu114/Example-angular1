@@ -1,0 +1,49 @@
+{
+  "name": "angularjs-structure",
+  "authors": [
+    "jerrybk108 <quochieu.agi@gmail.com>"
+  ],
+  "description": "angularjs structure project",
+  "main": "app.js",
+  "keywords": [
+    "angularjs",
+    "bootstrap",
+    "scss"
+  ],
+  "license": "MIT",
+  "homepage": "Sample project for PET-ICT & FPT Software Malaysia",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.6.6",
+    "angular-local-storage": "^0.7.1",
+    "angular-google-analytics": "^1.1.9",
+    "angular-bootstrap": "^2.5.0",
+    "bootstrap": "^3.3.7",
+    "underscore": "^1.8.3",
+    "angular-ui-router": "^1.0.12",
+    "angular-md5": "^0.1.10",
+    "angular-recaptcha": "^4.1.2",
+    "angular-ui-grid": "^4.2.2"
+  },
+  "overrides": {
+    "bootstrap": {
+      "main": [
+        "dist/js/bootstrap.js",
+        "dist/css/bootstrap.min.css"
+      ]
+    },
+    "angular-ui-router": {
+      "main": [
+        "release/angular-ui-router.min.js",
+        "release/stateEvents.min.js"
+      ]
+    }
+  }
+}

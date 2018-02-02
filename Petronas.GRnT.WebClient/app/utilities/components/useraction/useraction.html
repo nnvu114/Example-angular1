@@ -1,0 +1,53 @@
+<article class="user-action" ng-clickout="showme = false;">
+    <div class="user-action-icon"
+        ng-click="showme = !showme;"
+        ng-class="{'activated': showme}">
+        <i class="icon icon-pet-i-user-circle-filled"></i>
+        <span class="user-action-sms"></span>
+    </div>
+    <div class="user-action-list" ng-class="{'showme': showme}">
+        <div class="list-body">
+            <ul class="list">
+                <li class="item">
+                    <section class="avatar-arear">
+                        <div class="avatar-container">
+                            <div class="image-square-wrapper">
+                                <img src="" alt="">
+                            </div>
+                        </div>
+                    </section>
+                    <h4 class="text-center text-white-smoke uname">{{Ctrl.UserInfo.fullname}}</h4>
+                    <p class="text-center text-white-smoke">Senior Developer</p>
+                    <section class="organization text-center">
+                        <span class="no-margin text-white-smoke">PETRONAS ICT Sdn Bhd</span>
+                        <i class="text-white-smoke cursor-pointer icon icon-pet-i-edit"></i>
+                    </section>
+                </li>
+                <li class="item">
+                    <a ng-click="Ctrl.logout()" class="user-action-item">
+                        <label class="text no-margin">Setting</label>
+                        <span class="action">
+                            <i class="icon icon-pet-i-setting"></i>
+                        </span>
+                    </a>
+                </li>
+                <li class="item">
+                    <a ng-click="Ctrl.logout()" class="user-action-item">
+                        <label class="text no-margin">Account Management</label>
+                        <span class="action">
+                            <i class="icon icon-pet-i-user"></i>
+                        </span>
+                    </a>
+                </li>
+                <li class="item">
+                    <a ng-click="Ctrl.logout()" class="user-action-item">
+                        <label class="text no-margin">Logout</label>
+                        <span class="action">
+                            <i class="icon icon-pet-i-logout"></i>
+                        </span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</article>

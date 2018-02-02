@@ -1,0 +1,83 @@
+.notification-container {
+    position: relative;
+    .notification-list {
+        position: absolute;
+        width: 100%;
+        top: 0;
+        z-index: 99;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        &>li{
+            height: 0px;
+            background-color: rgba($color: $light-green, $alpha: .93);
+            transition: height .1s linear;
+            padding-left: 65px;
+            &:not(:first-child) {
+                margin-top: 5px;
+            }
+            &.show-notify {
+                height: 32px;
+                * {
+                    opacity: 1;
+                }
+            }
+            * {
+                opacity: 0;
+                transition: opacity .1s linear .1s;
+            }
+            &.warning {
+                background-color: rgba($color: $gold, $alpha: .93);
+            }
+            &.error {
+                background-color: rgba($color: $red, $alpha: .93);
+            }
+
+            .item {
+                height: 32px;
+                @include flexbox();
+                justify-content: flex-start;
+                align-items: center;
+                * {
+                    margin: 0;
+                }
+                .glyphicon {
+                    top: unset;
+                }
+                .text-area {
+                    width: 100%;
+                    @include flexbox;
+                    justify-content: flex-start;
+                    align-items: center;
+                    label {
+                        @extend .text-one-line;
+                        color: $white;
+                    }
+                    a {
+                        margin-left: 20px;
+                        font-weight: 600;
+                        color: $white;
+                        text-decoration: none;
+                        line-height: 1;
+                        padding-bottom: 1px;
+                        border-bottom: 1px solid $white;
+                        &:hover, &:focus {
+                            text-decoration: none;
+                        }
+                    }
+                }
+                .action, .notification-icon {
+                    @include inline-flexbox() {
+                        margin-left: 15px;
+                        margin-right: 15px;
+                        color: $white;
+                    };
+                    .action-item {
+                        display: inherit;
+                        @extend .cursor-pointer;
+                    }
+                }
+            }
+        }
+    }
+}

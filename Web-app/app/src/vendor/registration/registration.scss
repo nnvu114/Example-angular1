@@ -1,0 +1,15 @@
+.carousel-inner {
+    .item {
+        max-height: 500px;
+    }
+    .carousel-caption {
+        right: 0;
+        text-align: right;
+        bottom: 30%;
+        max-width: 1170px;
+    }
+}
+
+.carousel-indicators {
+    bottom: 80px;
+}

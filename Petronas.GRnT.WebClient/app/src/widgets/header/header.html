@@ -1,0 +1,25 @@
+<div class="header-container">
+    <div class="clearfix fixposition" fix-parent-width>
+        <div class="pet-container pet-header">
+            <section class="hinfo">
+                <div class="hlogo">
+                    <a class="logo-wrapper" ui-sref="{{vm.logoRoute}}">
+                        <img class="main-logo"
+                            src="/assets/img/petronas_logo_96.png"
+                            alt="PETRONAS ICT SDN BHD">
+                    </a>
+                </div>
+                <h4 class="htitle">Petronas campaign</h4>
+            </section>
+            <section class="haction">
+                <span class="loading" ng-if="vm.loading === true"></span>
+                <pet-dropdown-box
+                    data="h"
+                    delete="vm.deleteFn(item)"
+                    ng-repeat="h in vm.headerAction track by $index"></pet-dropdown-box>
+                <user-action></user-action>
+            </section>
+        </div>
+        <ht-notification custom-class="my-custom-class" multiple="true"></ht-notification>
+    </div>
+</div>

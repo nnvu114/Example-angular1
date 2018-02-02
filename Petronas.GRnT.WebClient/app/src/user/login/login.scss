@@ -1,0 +1,125 @@
+.pet-signin-page {
+    @include flexbox();
+    height: calc(100vh);
+    background-image: url(/assets/img/petronas-towers.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    .form-area {
+        width: 100%;
+        max-width: 400px;
+        margin: auto;
+        background: linear-gradient(lighten($nobel, 20), $light-gray);
+        box-shadow: 0 0 14px;
+        overflow: hidden;
+        @include flexbox();
+        flex-flow: column nowrap;
+        .signin-header {
+            width: 100%;
+            height: auto;
+            .curvate-container {
+                position: relative;
+                width: 100%;
+                padding-bottom: 56%;
+                .ratio-box {
+                    position: absolute;
+                    height: 100%;
+                    width: 160%;
+                    padding: 0 30%;
+                    margin-left: -30%;
+                    @include flexbox();
+                    flex-flow: column nowrap;
+                    justify-content: center;
+                    align-items: center;
+                    background: linear-gradient(to bottom right, $white 35%, lighten($white-smoke, 77) 50%, $white 65%);
+                    border-radius: 0px 0px 50% 50% / 0px 0px 87% 87%;
+                    box-shadow: 0px 0px 0px;
+                    .logo-center {
+                        img {
+                            width: 120px;
+                        }
+                    }
+                    .signin-title {
+                        margin: 0;
+                        margin-top: 20px;
+                        margin-bottom: -5px;
+                        font-size: 20px;
+                        color: transparent;
+                        background-color: $gray;
+                        text-shadow: 2px 2px 3px rgba($color: $white, $alpha: .3);
+                        -webkit-background-clip: text;
+                        -moz-background-clip: text;
+                        background-clip: text;
+                        -webkit-user-select: none;
+                        -moz-user-select: none;
+                        -ms-user-select: none;
+                        -o-user-select: none;
+                        user-select: none;
+                    }
+                }
+            }
+        }
+
+        .signin-body {
+            height: 100%;
+            margin: 25px 0 5px;
+            padding: 20px;
+            border-radius: 8px;
+
+            .login-container {
+                .icon-input-group {
+                    margin-bottom: 3px;
+                    .icon {
+                        font-size: 18px;
+                        margin-top: -2px;
+                        left: 14px;
+                        color: $nobel;
+                    }
+                    .form-control {
+                        @extend .icon-input-group;
+                        padding-top: 8px;
+                        padding-bottom: 8px;
+                        height: 42px;
+                        padding-left: 42px;
+                    }
+                }
+            }
+
+            .signin-action {
+                @include flexbox();
+                justify-content: space-between;
+                align-items: flex-end;
+                margin-top: 12px;
+                .btn {
+                    @extend .btn-emerald-green;
+                }
+            }
+
+            .more-info {
+                .href-action {
+                    font-size: 16px;
+                    transform: scale(1, 1.2);
+                    display: inline-block;
+                    line-height: 1;
+                }
+            }
+
+            .error {
+                font-size: 87%;
+                font-style: italic;
+                color: $red;
+            }
+        }
+    }
+
+    @mixin roltateY($deg) {
+        -webkit-transform: rotateY($deg);
+        -moz-transform: rotateY($deg);
+        transform: rotateY($deg);
+    }
+    @keyframes rollaround {
+        from   {@include roltateY(-360deg)}
+        to   {@include roltateY(-1deg)}
+    }
+}

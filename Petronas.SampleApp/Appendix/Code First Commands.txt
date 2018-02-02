@@ -1,0 +1,15 @@
+// Command Code based migration
+// To runable command in Visual studio 2013, install Microsoft Visual Studio 2012 Shell (Isolated) Redistributable Package first
+------------------------------------------------------------------------------------
+Enable-Migrations -ProjectName "Petronas.SampleApp.Model" 
+Add-Migration -Name "SampleApp" -StartUpProjectName "Petronas.SampleApp.WebApi" -ProjectName "Petronas.SampleApp.Model"
+Update-Database -StartUpProjectName "Petronas.SampleApp.WebApi" -ProjectName "Petronas.SampleApp.Model"
+
+Update-Database -Script -StartUpProjectName "Petronas.SampleApp.WebApi" -ProjectName "Petronas.SampleApp.Model"
+Update-Database -Script -Source $InitialDatabase -StartUpProjectName "Petronas.SampleApp.WebApi" -ProjectName "Petronas.SampleApp.Model"
+eg: To update 201605080639378_SampleApp24.cs file to sql script, run command: Update-Database -Script -Source 201605060814186_SampleApp23 -StartUpProjectName "Petronas.SampleApp.WebApi" -ProjectName "Petronas.SampleApp.Model"
+
+--Nuget commands:
+Install-Package bootstrap -Version 3.3.7
+Update-Package -reinstall
+Update-Package -reinstall -Project ProjectName

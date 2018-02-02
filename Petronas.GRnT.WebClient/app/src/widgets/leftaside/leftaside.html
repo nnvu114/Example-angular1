@@ -1,0 +1,71 @@
+<div class="left-aside-container">
+    <div class="left-aside-content">
+        <div class="pet-left-menu">
+            <div class="menu-item item-home">
+                <i class="icon icon-pet-i-i-home"></i>
+            </div>
+            <span class="loading" ng-if="vm.loading === true"></span>
+            <div class="menu-item-container" ng-repeat="item in vm.listMenuItems">
+                <div class="menu-item item-nav">
+                    <i class="icon {{item.iconName}}"></i>
+                    <span class="item-title">{{ item.name }}</span>
+                    <div ng-if="item.children.length > 0" class="item-content">
+                        <ul>
+                            <li ng-if="child.action === true" ui-sref="{{child.url}}" ng-repeat="child in item.children">
+                                {{ child.name }}
+                            </li>
+                            <li ng-if="child.action !== true" ng-repeat="child in item.children">
+                                <a ng-href="{{child.url}}">{{ child.name }}</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- <div class="menu-item-container">
+                <div class="menu-item item-nav">
+                    <i class="icon icon-pet-i-info"></i>
+                    <span class="item-title">Star</span>
+                    <div class="item-content" ng-show="showme">
+                        <ul>
+                            <li ui-sref="root.example">Custom tabs with steps control</li>
+                            <li>Custom Modal and Custom Modal</li>
+                            <li>Approval</li>
+                            <li>Submitted Evalution</li>
+                        </ul>
+                    </div>
+                </div>
+            </div> -->
+            <!-- <div class="menu-item-container">
+                <div class="menu-item item-nav">
+                    <i class="icon icon-pet-i-user-documents"></i>
+                    <span class="item-title">Report</span>
+                </div>
+            </div>
+            <div class="menu-item-container">
+                <div class="menu-item item-nav">
+                    <i class="icon icon-pet-i-users"></i>
+                    <span class="item-title">Pac</span>
+                </div>
+            </div>
+            <div class="menu-item-container">
+                <div class="menu-item item-nav">
+                    <i class="icon icon-pet-i-user"></i>
+                    <span class="item-title">Admin</span>
+                    <div class="item-content">
+                        <ul>
+                            <li>Manage User</li>
+                            <li>Manage PAC List</li>
+                            <li>Manage Evalution</li>
+                            <li>Report Weightage Contribution</li>
+                            <li>Manage Notification</li>
+                            <li>Manage Report Cycle</li>
+                            <li>Audit log</li>
+                            <li>Manage Guidline</li>
+                        </ul>
+                    </div>
+                </div>
+            </div> -->
+        </div>
+    </div>
+</div>

@@ -1,0 +1,26 @@
+<div class="pet-container main-content pet-client-container">
+    <h3>Sample directive for using!</h3>
+    <div class="row">
+        <div class="col-md-3 col-md-offset-3">
+            <ht-sortby select-with="vm.selected(item)" data="vm.sortby"></ht-sortby>
+        </div>
+        <div class="col-md-3">
+            <form name="vm.sampleForm">
+                <div class="petinput-inline-group" ng-class="{'activated': vm.sampleForm.selector.$focus}">
+                    <label class="group-label" for="selector">Category:</label>
+                    <petselect
+                        ng-model="vm.smf.selector"
+                        placeholder="Please select a category"
+                        id="selector"
+                        class="input-field"
+                        value-of-option="Id"
+                        label-of-value="Name"
+                        child-key="Children"
+                        default-value="{{''}}"
+                        name="vm.sampleForm.selector"
+                        options-data="vm.selector"></petselect>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

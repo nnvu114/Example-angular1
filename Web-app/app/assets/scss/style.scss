@@ -1,0 +1,29 @@
+html, body {
+    font-family: "Museo Sans", Roboto, "San Francisco", sans-serif;
+    font-size: 14px;
+    background-color: $white-smoke;
+    color: $primary-text;
+    @include scrollbar();
+}
+
+//PET LAYOUT
+.pet-main-layout {
+    @include flexbox();
+    flex-flow: row nowrap;
+    overflow: hidden;
+    .left-aside {
+        width: auto;
+        background-color: $deep-gray;
+        color: $white;
+        z-index: 1;
+    }
+    .right-aside {
+        width: 100%;
+        position: relative;
+        min-height: 100vh;
+    }
+}
+
+.main-content {
+    padding-top: 20px;
+}

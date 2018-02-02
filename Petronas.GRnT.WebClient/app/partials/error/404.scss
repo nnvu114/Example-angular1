@@ -1,0 +1,13 @@
+.not-found {
+    display: flex;
+    width: 100%;
+    min-height: 500px;
+    height: 100%;
+    .center-box {
+        margin: auto;
+        text-align: center;
+        .status-code {
+            color: #c9302c;
+        }
+    }
+}
